@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "DCIE: a two-mind online agent for ARC-AGI-3"
+authors:
+  - family-names: Carter
+    given-names: Joshua Matthew
+    alias: iVybe
+repository-code: "https://github.com/ivybe1337/DCIE-ARC-AGI-3"
+license: MIT-0
+date-released: 2026-11-02
+references:
+  - type: article
+    title: "Likely and Allowed: The Joint State of Prediction and Admissibility"
+    authors:
+      - family-names: Carter
+        given-names: Joshua Matthew
+    year: 2026
+    doi: 10.5281/zenodo.24093939
