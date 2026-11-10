@@ -12,7 +12,8 @@
   <a href="https://www.kaggle.com/code/netphantom17/ssm-farseer-arc3-official-gateway-runner"><img src="https://img.shields.io/badge/submission-57913002-9aa4b2?labelColor=141922" alt="Submission 57913002"></a>
   <img src="https://img.shields.io/badge/PyTorch-online_learning-f2b134?labelColor=141922" alt="PyTorch, online learning">
   <img src="https://img.shields.io/badge/python-3.12-9aa4b2?labelColor=141922" alt="Python 3.12">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT--0-9aa4b2?labelColor=141922" alt="License MIT-0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/code-Apache_2.0-9aa4b2?labelColor=141922" alt="Code: Apache 2.0"></a>
+  <a href="LICENSE-CC-BY-4.0"><img src="https://img.shields.io/badge/text_%26_method-CC_BY_4.0-9aa4b2?labelColor=141922" alt="Text and method: CC BY 4.0"></a>
   <a href="https://www.kaggle.com/code/netphantom17/ssm-farseer-arc3-official-gateway-runner"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle"></a>
 </p>
 
@@ -135,6 +136,13 @@ The last cell of the notebook does exactly this against Kaggle's gateway. Knobs:
 
 ## License
 
-My code is [MIT-0](LICENSE). The `ARC-AGI-3-Agents` framework and the official ARC-AGI-3 wheels belong to the ARC Prize Foundation and are not included here.
+This repository carries the same licenses as my Kaggle submissions.
+
+- **Code:** [Apache License 2.0](LICENSE), as the notebooks are released on Kaggle.
+- **Text, method and figures:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CC-BY-4.0), as stated in the notebooks and the submissions.
+
+Use it, change it, build on it, commercially or not. Any use, copy or adaptation must credit: *Joshua Matthew Carter (iVybe), "DCIE: a two-mind online agent for ARC-AGI-3", ARC Prize 2026*, with a link to this repository and a note of what you changed.
+
+The `ARC-AGI-3-Agents` framework and the official ARC-AGI-3 wheels belong to the ARC Prize Foundation and are not included here.
 
 <p align="center"><sub>Joshua Matthew Carter · iVybe</sub></p>

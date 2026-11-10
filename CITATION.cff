@@ -6,7 +6,9 @@ authors:
     given-names: Joshua Matthew
     alias: iVybe
 repository-code: "https://github.com/ivybe1337/DCIE-ARC-AGI-3"
-license: MIT-0
+license:
+  - Apache-2.0
+  - CC-BY-4.0
 date-released: 2026-11-02
 references:
   - type: article
